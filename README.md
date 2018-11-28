@@ -4,7 +4,7 @@ Seed/configuration files to get started with Karma.
 
 ## Unit Testing in AngularJS ##
 
-[Tutorial Powerpoint](Unit Testing in AngularJS.pptx)
+[Tutorial Powerpoint](./Unit Testing in AngularJS.pptx)
 
 ## Get Started ##
 
